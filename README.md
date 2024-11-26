@@ -1,3 +1,1 @@
-# first-repository
-## git config
-add new contents
+# 공부 흔적
